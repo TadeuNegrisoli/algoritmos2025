@@ -1,0 +1,5 @@
+print("Nova Esperança - PR")
+print(19)
+print(1.82)
+print(False)
+print("Meu nome é:\n Tadeu e tenho", 19, "anos.")
